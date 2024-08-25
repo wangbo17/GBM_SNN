@@ -1,1 +1,1 @@
-BIOL5352M
+The objective of this project was to use gene expression data to develop an iML classifier that distinguishes between primary and recurrent GBMs and identify important genes associated with therapy resistance.
